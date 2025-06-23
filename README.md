@@ -4,7 +4,7 @@ This project is a real-time, AI-powered multilingual voice assistant built using
 
 ## What It Does
 
-The Neurality Voice Agent:
+The Voice Agent:
 - Answers incoming phone calls via SIP (using Twilio + TwiML)
 - Transcribes patient speech in real time (multilingual)
 - Detects the intent of the request (e.g. appointment scheduling, billing, prescription, insurance)
