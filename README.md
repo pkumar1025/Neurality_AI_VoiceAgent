@@ -1,4 +1,4 @@
-# Neurality Voice Agent
+# AI Voice Agent for Patient Intake
 
 This project is a real-time, AI-powered multilingual voice assistant built using the LiveKit Agents SDK. It demonstrates a scalable pipeline for voice-first patient engagement, with structured intent classification and natural language interaction.
 
